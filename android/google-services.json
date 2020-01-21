@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "803313992147",
+    "firebase_url": "https://tesrn-f0beb.firebaseio.com",
+    "project_id": "tesrn-f0beb",
+    "storage_bucket": "tesrn-f0beb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803313992147:android:1a1272775884ac56866f26",
+        "android_client_info": {
+          "package_name": "com.teschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803313992147-dkfc40rqoje3vm42u19jvgasc649qk94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teschat",
+            "certificate_hash": "3c7239f18e5da4911373d648ece5bb7b32189cd4"
+          }
+        },
+        {
+          "client_id": "803313992147-nkcdabr0k4gf0ftr521ul5ngt1483cos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA312c7kWqFc0IFIthnvH125DRgJ-OGpv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803313992147-nkcdabr0k4gf0ftr521ul5ngt1483cos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
