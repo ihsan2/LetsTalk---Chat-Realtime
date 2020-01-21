@@ -40,8 +40,7 @@
 2. Type `git clone https://github.com/ihsan2/LetsTalk---Chat-Realtime.git`
 3. Open the folder and type `npm install` for install dependencies
 4. Create Environment Variable [here](#create-environment-variable)
-5. Before run this, you must run backend first
-6. Type `react-native run-android` for run this app. **_Make sure your device is connected with debugging mode_**.
+5. Type `react-native run-android` for run this app. **_Make sure your device is connected with debugging mode_**.
 
 ## Create Environment Variable
 
