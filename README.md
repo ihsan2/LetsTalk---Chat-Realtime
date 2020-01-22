@@ -15,6 +15,8 @@
 - [Usage](#usage-for-development)
 - [Create Environment Variable](#create-environment-variable)
 - [Screenshots](#screenshots)
+- [Release APK](#release-apk)
+- [Contact](#contact)
 - [Contributors](#contributors)
 
 ## Introduction
@@ -83,6 +85,18 @@ measurementId='YOUR_measurementId_FIREBASE'
     <img width="250" src="./src/public/ss/s11.png">
     <img width="250" src="./src/public/ss/s12.png">
 </div>
+
+## Release APK
+
+<a href="https://drive.google.com/open?id=1CYZPjIFPfnK4w8T4f0bNudlz9BBFxjA8">
+  <img src="https://img.shields.io/badge/Download%20on%20the-Google%20Drive-blue.svg?style=popout&logo=google-drive"/>
+</a>
+
+## Contact
+
+If you want to contact me you can reach me at <nihsan727@gmail.com>.
+
+Copyright © 2020 by Nur Ihsan
 
 ## Contributors
 
