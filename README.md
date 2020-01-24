@@ -88,7 +88,7 @@ measurementId='YOUR_measurementId_FIREBASE'
 
 ## Release APK
 
-<a href="https://drive.google.com/open?id=1CYZPjIFPfnK4w8T4f0bNudlz9BBFxjA8">
+<a href="http://bit.ly/LetsTalk-v1">
   <img src="https://img.shields.io/badge/Download%20on%20the-Google%20Drive-blue.svg?style=popout&logo=google-drive"/>
 </a>
 
