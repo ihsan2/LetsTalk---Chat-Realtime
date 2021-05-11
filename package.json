@@ -16,7 +16,7 @@
     "accordion-collapse-react-native": "^0.2.6",
     "array-sort": "^1.0.0",
     "firebase": "^7.6.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "lottie-react-native": "^3.3.2",
     "moment": "^2.24.0",
     "native-base": "^2.13.8",
